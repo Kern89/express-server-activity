@@ -76,3 +76,6 @@ button:active {
     /* Green */
     color: white;
 }
+img {
+    width: 300px;
+}
